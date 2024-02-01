@@ -112,7 +112,7 @@ key function:
 
 ## 运行
 
-### 运行界面
+### 运行
     `./gif2binimage gifurl arrangemode MSB rotate flip width height` 
 | 参数 | 含义 |
 | :- | :- | 
@@ -124,7 +124,7 @@ key function:
 |width| 输出显示像素宽度|
 |height| 输出显示像素高度|
 
-    
+### 运行界面    
     
 ![](https://github.com/Marspacecraft/gif2binimage/blob/main/image/1.png)    
 

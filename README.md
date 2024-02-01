@@ -140,6 +140,7 @@ key function:
 |F12 |开启或关闭左上角实际大小取景结果|
 |空格键 |保存当前帧|
 |d |删除当前帧|
+｜q｜结束｜
 
 ### 运行结果
     运行结束会生成两个文件 binimage.bin 和 binimage.c。bin文件为图像数据；c文件为对应参数，需要配合 binimagearray.h 使用。
